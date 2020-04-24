@@ -1,7 +1,7 @@
-# pong
+# Pong
 Pong game programmed by Processing
 
-I wrote this game using Processing just for fun and joy, and to get relax after I finished reading a half of [Kotlin Programming](https://www.amazon.com/gp/product/0135161630/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) book .
+I wrote this game using Processing just for fun and joy, and to get relax after I finished reading a half of [Kotlin Programming](https://www.amazon.com/gp/product/0135161630/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) book.
 
 During my journey to learn Kotlin and to get more and deep understanding of Object-Oriented Programming (OOP), I searched on YouTube and found [Pong & Object Oriented Programming - Computerphile](https://youtu.be/KyTUN6_Z9TM) video which motivate to write this game.
 
